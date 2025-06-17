@@ -20,33 +20,46 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Turned on Active Directory in Server Manager
+- Made two folders: one for Admin and one for Employees
+- Created a user in the Admin folder
+- Added the user to Domain Users and Domain Admins
 
-<h2>Deployment and Configuration Steps</h2>
+<h2> Step 1 Active Directory Domain Services (AD DS) was installed using Server Manager to start setting up a domain.<h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/29600652-5f57-434b-bc35-a04b4ec2d596)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<h2> Step 2 Two folders, called Organizational Units (OUs), were created to organize users into separate groups: one for employees and one for admins.<h2>
+
+![tod](https://github.com/user-attachments/assets/452a428c-3237-418e-befa-64f2780e8675)
+
 </p>
+<br />
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    
+<h2> Step 3 The user account was successfully added to the Admin folder in Active Directory.<h2>
+
+![te](https://github.com/user-attachments/assets/ffb7fd45-a890-4901-9fc3-8cb7a0b400ac)
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<h2> Step 4 The user account was added to the “Domain Admins” group to give full administrative access across the domain.<h2>
+
+![Screenshot 2025-06-17 152009](https://github.com/user-attachments/assets/11751c50-18a4-42b7-b207-bfebd5dc2fb8)
+
 </p>
 <br />
