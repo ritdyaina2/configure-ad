@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Created a user in the Admin folder
 - Added the user to Domain Users and Domain Admins
 
-<h2> Step 1 Active Directory Domain Services (AD DS) was installed using Server Manager to start setting up a domain.<h2>
+<h2> Step - 1 Active Directory Domain Services (AD DS) was installed using Server Manager to start setting up a domain.<h2>
 
 <p>
   
@@ -38,7 +38,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
   
-<h2> Step 2 Two folders, called Organizational Units (OUs), were created to organize users into separate groups: one for employees and one for admins.<h2>
+<h2> Step - 2 Two folders, called Organizational Units (OUs), were created to organize users into separate groups: one for employees and one for admins.<h2>
 
 ![tod](https://github.com/user-attachments/assets/452a428c-3237-418e-befa-64f2780e8675)
 
@@ -48,7 +48,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
     
-<h2> Step 3 The user account was successfully added to the Admin folder in Active Directory.<h2>
+<h2> Step - 3 The user account was successfully added to the Admin folder in Active Directory.<h2>
 
 ![te](https://github.com/user-attachments/assets/ffb7fd45-a890-4901-9fc3-8cb7a0b400ac)
 
@@ -57,7 +57,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 
-<h2> Step 4 The user account was added to the “Domain Admins” group to give full administrative access across the domain.<h2>
+<h2> Step - 4 The user account was added to the “Domain Admins” group to give full administrative access across the domain.<h2>
 
 ![Screenshot 2025-06-17 152009](https://github.com/user-attachments/assets/11751c50-18a4-42b7-b207-bfebd5dc2fb8)
 
