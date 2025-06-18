@@ -27,7 +27,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2> Configuration Steps <h2>
   
-Step 1 – AD DS Role Installed
+Step 1 – AD DS Role Installed 
+
 Active Directory Domain Services (AD DS) was installed using Server Manager to start setting up a domain.
 
 <p>
@@ -42,6 +43,7 @@ Active Directory Domain Services (AD DS) was installed using Server Manager to s
 <p>
   
 Step 2 – Create New Organizational Units (OUs)
+
 Two folders, called Organizational Units (OUs), were created to organize users into separate groups: one for employees and one for admins.
 
 ![tod](https://github.com/user-attachments/assets/452a428c-3237-418e-befa-64f2780e8675)
@@ -53,6 +55,7 @@ Two folders, called Organizational Units (OUs), were created to organize users i
 <p>
     
 Step 3 – View User in Directory
+
 The user account was successfully added to the Admin folder in Active Directory.
 
 ![te](https://github.com/user-attachments/assets/ffb7fd45-a890-4901-9fc3-8cb7a0b400ac)
@@ -63,6 +66,7 @@ The user account was successfully added to the Admin folder in Active Directory.
 <p>
 
 Step 4 – Add User to Group 
+
 The user account was added to the “Domain Admins” group to give full administrative access across the domain.
 
 ![Screenshot 2025-06-17 152009](https://github.com/user-attachments/assets/11751c50-18a4-42b7-b207-bfebd5dc2fb8)
