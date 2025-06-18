@@ -25,8 +25,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Created a user in the Admin folder
 - Added the user to Domain Users and Domain Admins
 
-<h2> Configuration Steps <h2>
-  
+<h2>Configuration Steps</h2>
+
 Step 1 – AD DS Role Installed 
 
 Active Directory Domain Services (AD DS) was installed using Server Manager to start setting up a domain.
@@ -73,3 +73,4 @@ The user account was added to the “Domain Admins” group to give full adminis
 
 </p>
 <br />
+  
